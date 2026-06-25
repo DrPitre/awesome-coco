@@ -194,6 +194,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 - [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 - [CoCo ROMs](https://github.com/tomctomc/coco_roms) - Color Computer ROM disassemblies
 - [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) - Original source code by Erik Gavriluk and Greg Miller
+- [ColorTRSDOS](https://github.com/DarkChocoholicDev/ColorTRSDOS) - by Robert G. Kilgus
 - [Defender_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) - Conversion of William's arcade game by Glen Hewlett
 - [Delphiterm](https://github.com/yggdrasilradio/delphiterm) - Original source code by Rick Adams
 - [Downland](https://github.com/pw32x/Downland_RE) - Downland V1.1 disassembly
